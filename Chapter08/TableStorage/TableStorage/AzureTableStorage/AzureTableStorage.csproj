@@ -28,11 +28,11 @@
 	  <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.OpenApi" Version="1.5.1" />
 	  <PackageReference Include="Microsoft.Azure.Functions.Worker.Sdk" Version="1.17.4" />
 
-	  <PackageReference Include="AutoMapper" Version="13.0.1" />
+	  <PackageReference Include="AutoMapper" Version="16.1.1" />
 
 	  <PackageReference Include="Microsoft.Azure.WebJobs.Host.Storage" Version="5.0.1" />
       <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
-      <PackageReference Include="Microsoft.Extensions.Options" Version="8.0.2" />
+      <PackageReference Include="Microsoft.Extensions.Options" Version="10.0.0" />
       <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0" />
       <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
 	  
